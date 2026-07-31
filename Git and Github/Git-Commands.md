@@ -12,3 +12,9 @@ These are some of the most commonly used Git commands:
 10. git rm - Remove files from the working tree and index
 11. git restore - Restore working tree files from the index
 12. git merge - Merge changes from one branch into another
+
+
+git add and commit for adding files and sving changes(step-by-step).
+1. git add example.txt(filename) or .(current directory) or *(everyfile).
+2. git commit -m "This is message"
+3. git push or git push -u origin/main
