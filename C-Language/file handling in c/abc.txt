@@ -1,0 +1,3 @@
+i am become pokemon master already
+so this should not be printed
+what this is logged in terminal
